@@ -19,7 +19,7 @@
         .texto {
             margin-right: 200px;
             font-size: 18px;
-            color: azure;
+            color: rgb(222, 236, 236);
             width: 550px;
             padding: 18px;
             background-color: #003140;
@@ -45,12 +45,11 @@
         #button {
 
             border: none;
-            width: 66px;
-            height: 58px;
+            width: 54px;
+            height: 54px;
             text-decoration: none;
-            color: #fff;
             font-family: "Montserrat Alternates", sans-serif;
-            background: linear-gradient(to bottom, #D30606, #B50049);
+            background: linear-gradient(to bottom, #d81717, #790332);
             border-radius: 8px;
             text-shadow: 0px 1px 4px #000000;
             transition: all 1s ease;
@@ -66,18 +65,17 @@
         }
 
         #button img {
-            width: 40px;
-            height: 40px;
+            width: 30px;
+            height: 30px;
         }
 
         #button2 {
             border: none;
-            width: 66px;
-            height: 58px;
+            width: 54px;
+            height: 54px;
             text-decoration: none;
-            color: #fff;
             font-family: "Montserrat Alternates", sans-serif;
-            background: linear-gradient(to bottom, #D30606, #B50049);
+            background: linear-gradient(to bottom, #0677d3, #31037a);
             border-radius: 8px;
             text-shadow: 0px 1px 4px #000000;
             transition: all 1s ease;
@@ -93,10 +91,8 @@
         }
 
         #button2 img {
-            width: 42px;
-            height: 40px;
-            border-radius: 100%;
-
+            width: 30px;
+            height: 30px;
         }
     </style>
 </head>
@@ -106,7 +102,7 @@
     <div class="container">
 
         <div class="imagem">
-            <img src="code-4.gif" alt="gif">
+            <img src="https://s9.gifyu.com/images/code-4.md.gif" alt="gif">
         </div>
         <div class="texto">
             <p><br>Olá, meu nome é Lais e sou Desenvolvedora Front end e UI Designer. Estou cursando em Análise e
@@ -125,10 +121,10 @@
                 📫Quer Falar Comigo?</h2>
             <p>
                 Me mande mensagem em alguma dessas redes sociais abaixo!</p>
-            <button id="button">Gmail<img id="logo-gmail" src="gmail-preto.png" alt=""></button>
+            <button id="button"><img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png"/></button>
 
-            <button id="button2">Linkedin
-                <img id="logo-gmail" src="linedin.png" alt="">
+            <button id="button2">
+                <img src="https://img.icons8.com/ios-filled/50/000000/linkedin-2--v2.png"/>
             </button>
         </div>
     </div>
