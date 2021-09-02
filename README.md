@@ -9,4 +9,5 @@ Desde que tive o primeiro contato com front-end percebi que é onde quero focar 
 
 Emblema Linkedin 
 
-https://www.linkedin.com/in/la%C3%ADs-fernanda-32804315a/ https://mail.google.com/mail/u/0/?pli=1#inbox 
+https://www.linkedin.com/in/la%C3%ADs-fernanda-32804315a/ https://mail.google.com/mail/u/0/?pli=1#inbox  ![image](https://user-images.githubusercontent.com/58227277/131898211-741ff834-544d-4501-b1ab-c92648898a0a.png)
+
