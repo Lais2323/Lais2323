@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="PT-BR">
 
 <head>
     <meta charset="UTF-8">
@@ -39,16 +39,16 @@
         h2 {
             font-size: 20px;
             color: #49c6ec;
-            font-family: "Montserrat Alternates",sans-serif;
+            font-family: "Montserrat Alternates", sans-serif;
         }
 
         #button {
-            
+
             border: none;
             width: 66px;
             height: 58px;
             text-decoration: none;
-           color: #fff;
+            color: #fff;
             font-family: "Montserrat Alternates", sans-serif;
             background: linear-gradient(to bottom, #D30606, #B50049);
             border-radius: 8px;
@@ -69,13 +69,13 @@
             width: 40px;
             height: 40px;
         }
-        
+
         #button2 {
             border: none;
             width: 66px;
             height: 58px;
             text-decoration: none;
-           color: #fff;
+            color: #fff;
             font-family: "Montserrat Alternates", sans-serif;
             background: linear-gradient(to bottom, #D30606, #B50049);
             border-radius: 8px;
@@ -96,10 +96,8 @@
             width: 42px;
             height: 40px;
             border-radius: 100%;
-    
-        }
 
-    
+        }
     </style>
 </head>
 
@@ -135,7 +133,6 @@
         </div>
     </div>
     </div>
-    </table>
 </body>
 
 </html>
