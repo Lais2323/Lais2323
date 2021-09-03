@@ -12,6 +12,8 @@
             ReactJS, React Native, SEO e afins.
             <h2> 📫Quer Falar Comigo?</h2>
    Me mande mensagem em alguma dessas redes sociais abaixo! <br>
+ [![Linkedin Badge](https://img.shields.io/badge/-Ronaldo&nbsp;Santana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/la%C3%ADs-fernanda-32804315a/)](https://www.linkedin.com/in/la%C3%ADs-fernanda-32804315a/) <a href="mailto:laisfernanda2323@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-laisfernanda2323@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ronaldosantana483@gmail.com" /></a>
+</div>
 </td>
 </tr>
 </table>
