@@ -1,134 +1,17 @@
-<!DOCTYPE html>
-<html lang="PT-BR">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Git</title>
-    <style>
-        .container {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            height: 600px;
-            width: 650px;
-            background-color: #49c6ec;
-            margin-left: 150px;
-        }
-
-        .texto {
-            margin-right: 200px;
-            font-size: 18px;
-            color: rgb(222, 236, 236);
-            width: 550px;
-            padding: 18px;
-            background-color: #003140;
-            font-family: "Montserrat Alternates", sans-serif;
-        }
-
-        .imagem {
-            background-color: #003140;
-        }
-
-        img {
-            height: 500px;
-            width: 650px;
-
-        }
-
-        h2 {
-            font-size: 20px;
-            color: #49c6ec;
-            font-family: "Montserrat Alternates", sans-serif;
-        }
-
-        #button {
-
-            border: none;
-            width: 54px;
-            height: 54px;
-            text-decoration: none;
-            font-family: "Montserrat Alternates", sans-serif;
-            background: linear-gradient(to bottom, #d81717, #790332);
-            border-radius: 8px;
-            text-shadow: 0px 1px 4px #000000;
-            transition: all 1s ease;
-            cursor: pointer;
-        }
-
-        #button:hover {
-            opacity: 0.9;
-            background: linear-gradient(to bottom, #CE2286, #D00C3F);
-            border-radius: 5px;
-            text-shadow: 0px 1px 2px #000000;
-            box-shadow: 0px 1px 2px #000000;
-        }
-
-        #button img {
-            width: 30px;
-            height: 30px;
-        }
-
-        #button2 {
-            border: none;
-            width: 54px;
-            height: 54px;
-            text-decoration: none;
-            font-family: "Montserrat Alternates", sans-serif;
-            background: linear-gradient(to bottom, #0677d3, #31037a);
-            border-radius: 8px;
-            text-shadow: 0px 1px 4px #000000;
-            transition: all 1s ease;
-            cursor: pointer;
-        }
-
-        #button2:hover {
-            opacity: 0.9;
-            background: linear-gradient(to bottom, #CE2286, #D00C3F);
-            border-radius: 5px;
-            text-shadow: 0px 1px 2px #000000;
-            box-shadow: 0px 1px 2px #000000;
-        }
-
-        #button2 img {
-            width: 30px;
-            height: 30px;
-        }
-    </style>
-</head>
-
-<body>
-
-    <div class="container">
-
-        <div class="imagem">
-            <img src="https://s9.gifyu.com/images/code-4.md.gif" alt="gif">
-        </div>
-        <div class="texto">
-            <p><br>Olá, meu nome é Lais e sou Desenvolvedora Front end e UI Designer. Estou cursando em Análise e
-                Desenvolvimento de
-                sistemas. <br> Desde que tivo o primeiro contato com front-end percebi que é onde quero focar meus
-                estudos, e
-                abranger meus conhecimentos, <br>pretendo estudar as tecnologias mais modernas do mercado e evoluir
-                sempre !.</p>
-            <h2>
+<table>
+<tr>
+<td width="600px"><img src="https://s9.gifyu.com/images/code-4.md.gif" heigth="300px" width="600px" height="600px">
+ </td>
+<td width="400px"; background-color="#1C1E21">
+ Olá, meu nome é Lais e sou Desenvolvedora Front end e UI Designer. Estou cursando em Análise e Desenvolvimento de sistemas.  Desde que tivo o primeiro contato com front-end percebi que é onde quero focar meus  estudos, e abranger meus conhecimentos, pretendo estudar as tecnologias mais modernas do mercado e evoluir sempre !.
+            <h2 color="blue">
                 🔥Habilidades</h2>
-            <p>HTML5, CSS3, SASS, Javascript ES6 +, SQL, UI / UX nodeJS.</p>
+            HTML5, CSS3, SASS, Javascript ES6 +, SQL, UI / UX nodeJS.
             <h2>
                 🚀Pretendo Aprender</h2>
-            <p>ReactJS, React Native, SEO e afins.</p>
-            <h2>
-                📫Quer Falar Comigo?</h2>
-            <p>
-                Me mande mensagem em alguma dessas redes sociais abaixo!</p>
-            <button id="button"><img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png"/></button>
-
-            <button id="button2">
-                <img src="https://img.icons8.com/ios-filled/50/000000/linkedin-2--v2.png"/>
-            </button>
-        </div>
-    </div>
-    </div>
-</body>
-
-</html>
+            ReactJS, React Native, SEO e afins.
+            <h2> 📫Quer Falar Comigo?</h2>
+   Me mande mensagem em alguma dessas redes sociais abaixo! <br>
+</td>
+</tr>
+</table>
