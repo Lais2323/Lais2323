@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="600px"><img src="https://s9.gifyu.com/images/code-4.md.gif" heigth="300px" width="600px" height="600px">
+<td width="600px"><img src="https://s9.gifyu.com/images/code-4.md.gif" heigth="300px" width="600px" height="500px">
  </td>
 <td width="400px"; background-color="#1C1E21">
  Olá, meu nome é Lais e sou Desenvolvedora Front end e UI Designer. Estou cursando em Análise e Desenvolvimento de sistemas.  Desde que tivo o primeiro contato com front-end percebi que é onde quero focar meus  estudos, e abranger meus conhecimentos, pretendo estudar as tecnologias mais modernas do mercado e evoluir sempre !.
