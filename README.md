@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/z2jL3WX/Dev-Front-End-5.png" width="350px>
+<img src="https://i.ibb.co/z2jL3WX/Dev-Front-End-5.png" width="300px>
 </div>
 <div align="center">
  <br><strong>Olá, meu nome é Lais e sou Desenvolvedora Front end e UI Designer </strong>. Estou cursando em Análise e Desenvolvimento de sistemas.  Desde que tivo o primeiro contato com front-end percebi que é onde quero focar meus  estudos, e abranger meus conhecimentos, pretendo estudar as tecnologias mais modernas do mercado e evoluir sempre !.
