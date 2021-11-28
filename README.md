@@ -13,6 +13,7 @@
             ReactJS, React Native, SEO e afins.
             <h2> 📫Quer Falar Comigo?</h2>
    Me mande mensagem em alguma dessas redes sociais abaixo! <br>
+ https://www.linkedin.com/in/laís-fernanda/
 
 </div>
 </td>
