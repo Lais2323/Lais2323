@@ -1,4 +1,4 @@
-<table border="0">
+<table border="none">
 <tr border="0">
 <td border="0">
  <a href="https://ibb.co/NmPwQDY"><img src="https://i.ibb.co/QCRszSm/Pngtree-flat-design-concept-of-programmers-5870919.png" alt="Pngtree-flat-design-concept-of-programmers-5870919" border="0" width="600px"></a>
